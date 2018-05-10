@@ -1,0 +1,34 @@
+div.dav {
+	height: 6ex;
+	background-color: #;
+}
+.clo{
+	background-color: #;
+}
+.za{
+	float: left;
+}
+
+.zer{
+	background-color: #;
+}
+
+
+p{
+    font-size: 2.2ex
+}
+
+a{
+    color: black;
+	display: inline-block;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #;
+	text-decoration: none;
+}
+
+a:visited, a:focus, {
+    color: #fff;
+  }

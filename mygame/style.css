@@ -1,0 +1,30 @@
+div.dav {
+	height: 15ex;
+	background-color: ;
+}
+
+th {
+	font-size: 3ex;
+	width: 18ex;
+	background-color: #FFE4B5;
+	height: 8ex;
+}
+
+p{
+    font-size: 2.2ex
+}
+
+a{
+    color: #ff0000;
+	display: inline-block;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #7f180d;
+	text-decoration: none;
+}
+
+a:visited, a:focus, {
+    color: #fff;
+  }
