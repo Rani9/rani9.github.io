@@ -9,7 +9,7 @@ div.dav {
 }
 
 .rez{
-        color: red;
+    color: red;
 	font-size: 3.9ex;
 }
 .rez_pr{
@@ -27,13 +27,13 @@ div.dav {
 }
 .psn{
 	border-radius: 2ex;
-	width: 130ex;
-	height: 52ex;
+	width: 139ex;
+	height: auto;
 }
 
 .otstyp{
 	background-color: 0;
-	height: 6ex;
+	height: 2ex;
 	width: 4ex;
 }
 
