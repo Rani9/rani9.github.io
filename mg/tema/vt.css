@@ -46,7 +46,7 @@ a.akl{
 	padding: 3px;
 	border-radius: 5px;
 	background-color: #abd39d;          /* цвет1 */
-	font-size: 45px;
+	font-size: 260%;
 }
 
 a.akl:hover{
@@ -62,7 +62,7 @@ a.akl:hover{
 
 .vbr{
 	padding: 5px;
-	width: 960px ;
+	width: 50%;
 	height: auto;
 	margin-right: auto;
 	margin-left: auto;
