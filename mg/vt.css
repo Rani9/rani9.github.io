@@ -1,0 +1,104 @@
+*{
+	background-color: #;
+}
+
+div.dav {
+	background-color: ;
+	height: 170px;
+}
+
+
+
+.vprs{
+	border-radius: 10px;
+    margin-right: auto;
+	margin-left: auto;
+    width: 799px auto;
+	height: auto;
+	background-color: #dfc9d8;
+	font-size:25px;
+}
+
+a{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+}
+a.gl{
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #fff;
+}
+a:hover{
+	text-decoration: none;
+	color: #fff;
+}
+
+a.gl:hover{
+	color: #fff;
+	background-color: #000;
+	text-decoration: none;
+}
+
+a.akl{
+	padding: 3px;
+	border-radius: 5px;
+	background-color: #abd39d;          /* цвет1 */
+	font-size: 260%;
+}
+
+a.akl:hover{
+	padding: 3px;
+	background-color: black;
+	color: #abd39d;                      /* цвет1 */
+}
+
+.otv{
+	border-radius: 20px;
+	height: auto;
+}
+
+.vbr{
+	padding: 5px;
+	width: 50%;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #abd39d;         /* цвет1 */
+	border-radius: 19px; 
+
+}
+/* ПОЯСНЕНИЕ */
+
+.rez{
+	font-size: 35px;
+	width: auto;
+	height: auto;
+	background-color: #223878;
+}
+
+.r_pr{
+	color: green;
+	padding: 5px;
+}
+
+.r_np{
+	padding: 5px;
+	color: red;
+}
+
+.psn{
+	width: 960px;
+	height: auto;
+    background-color: #B0E0E6;
+	border-radius: 14px;
+}
+.psd{
+	padding: 7px;
+	font-size: 34px;
+}
+/**/
+
+

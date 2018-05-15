@@ -2,19 +2,24 @@ div.dav {
 	height: 15ex;
 	background-color: ;
 }
-
+html{
+	font-size: 10px;
+}
+table{
+	width: 960px
+}
 th {
-	font-size: 3ex;
-	width: 18ex;
+	width: auto;
 	background-color: #FFE4B5;
-	height: 8ex;
+	height: auto;
 }
 
 p{
-    font-size: 2.2ex
+    font-size: 2.8em
 }
 
 a{
+	font-size: 3.2em;
     color: #ff0000;
 	display: inline-block;
 	text-decoration: none;
