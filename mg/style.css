@@ -6,7 +6,7 @@ table{
 }
 th {
 	width: auto;
-	background-color: #FFE4B5;
+	background-color: #cae9f1;
 	height: auto;
 }
 
@@ -16,12 +16,12 @@ p{
 
 a{
 	font-size: 3em;
-    color: #ff0000;
+    color: #2409ef;
 	display: inline-block;
 	text-decoration: none;
 }
 
 a:hover{
-	color: #7f180d;
+	color: #8723a8;
 	text-decoration: none;
 }

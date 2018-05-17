@@ -15,7 +15,7 @@ div.dav {
 	margin-left: auto;
     width: 799px auto;
 	height: auto;
-	background-color: #dfc9d8;
+	background-color: #e5feda;
 	font-size:25px;
 }
 
@@ -45,14 +45,14 @@ a.gl:hover{
 a.akl{
 	padding: 3px;
 	border-radius: 5px;
-	background-color: #abd39d;          /* цвет1 */
+	background-color: #bcf6ff;          /* цвет1 */
 	font-size: 260%;
 }
 
 a.akl:hover{
 	padding: 3px;
 	background-color: black;
-	color: #abd39d;                      /* цвет1 */
+	color: #bcf6ff;                      /* цвет1 */
 }
 
 .otv{
@@ -66,7 +66,7 @@ a.akl:hover{
 	height: auto;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #abd39d;         /* цвет1 */
+	background-color: #bcf6ff;         /* цвет1 */
 	border-radius: 19px; 
 
 }
@@ -76,7 +76,7 @@ a.akl:hover{
 	font-size: 35px;
 	width: auto;
 	height: auto;
-	background-color: #223878;
+	background-color: #ccdfff;
 }
 
 .r_pr{
@@ -92,7 +92,7 @@ a.akl:hover{
 .psn{
 	width: 960px;
 	height: auto;
-    background-color: #B0E0E6;
+    background-color: #dafdfe;
 	border-radius: 14px;
 }
 .psd{
