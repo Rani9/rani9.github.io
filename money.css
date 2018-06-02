@@ -14,7 +14,7 @@ body{
 a{
 	border-radius: 30px;
 	padding: 15px;
-	background-color: #68a2ae;
+	background-color: #9baeb2;
     font-size: 30px;
 	margin-right: 90px;
 }
@@ -27,7 +27,7 @@ a{
 
 a:hover{
 	color: white;
-	background-color: #7c9494;
+	background-color: #83aa89;
 	text-decoration: none;
 }
 
