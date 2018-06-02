@@ -8,7 +8,17 @@ body{
 	margin-left: 300px;
 	margin-bottom: 300px;
 }
-
+p{
+	border-radius: 30px;
+	padding: 15px;
+	background-color: #9baeb2;
+    font-size: 30px;
+	margin-right: 90px;
+    color: black;
+	display: inline-block;
+	text-decoration: none;
+	
+}
 
 
 a{
