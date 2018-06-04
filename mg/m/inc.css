@@ -3,10 +3,10 @@ body{
 }
 
 .zadanie{
-	margin-top: 200px;
-	margin-right: 200px;
-	margin-left: 200px;
-	margin-bottom: 300px;
+	margin-top: 20px auto;
+	margin-right: 90px auto; 
+	margin-left: 90px;
+	margin-bottom: 20px auto;
 }
 p{
 	border-radius: 30px;
