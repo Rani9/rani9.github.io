@@ -1,0 +1,87 @@
+body{
+overflow: scroll;
+background-color: #efefef;
+background: url();
+src: local("Run.ttf");
+font-family: Arial, sans-serif;
+
+}
+
+#centr{
+margin: 4% auto;
+border-radius: 30px;
+width: 960px;
+}
+
+.dayn{
+margin-left: 13% auto;
+margin-right: 13% auto;
+width: 960px auto;
+font-size: 4.7ex;
+padding: 4px;
+color: #fff;
+background-color: rgb(0, 169, 157);
+}
+
+#fre{
+padding-right: 25px;
+padding-left: 25px;
+border-radius: 0 0 10px 0;
+background-color: #2d575c;
+display: inline-block;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.par{ 
+color: #fff;
+font-size: 4ex;
+padding: 4px;
+}
+.daz{
+text-decoration: none;
+display: inline-block;
+background-color: #00a99d;
+color: #fff;
+font-size: 5ex;
+padding-top: 10px;
+padding-right: 25px;
+padding-left: 25px;
+border-radius: 0 0 10px 0;
+box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.daz:hover{
+background-color: #029688;
+}
+
+.link1{
+
+color: #fff;
+
+text-decoration: none;
+
+}
+.link1:hover{
+padding: 4px;
+color: #fff;
+background-color: #3e7980;
+text-decoration: none;
+border-radius: 0 0 0px 0;
+}
+#fre1{
+padding-right: 25px;
+padding-left: 25px;
+border-radius: 25px;
+background-color: #3e7980;
+display: inline-block;
+border: 2px solid silver;
+}
+.takru{
+color: #fff;
+text-decoration: none;
+}
+.takru:hover{
+padding: 4px;
+color: #fff;
+background-color: #3e7980;
+text-decoration: none;
+border-radius: 0 0 0px 0;
+}
